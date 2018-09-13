@@ -1,0 +1,30 @@
+_repo: Sicherer-Wegweiser-zu-einer-guten-und-gesunden-Wohnung-Zwei-Preisschriften_51349
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Balmer-Rinck, Johann Jakob
+    alias: Balmer-Rinck, J. J.
+    gutenberg_agent_id: '46373'
+    url: http://www.gutenberg.org/2009/agents/46373
+  - agent_name: Meyer-Merian, Theodor
+    birthdate: 1818
+    deathdate: 1867
+    gutenberg_agent_id: '46372'
+    url: http://www.gutenberg.org/2009/agents/46372
+description: ''
+gutenberg_issued: '2016-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51349'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Housing and health'
+- !lcc 'HV'
+- GITenberg
+title: 'Sicherer Wegweiser zu einer guten und gesunden Wohnung
+
+  Zwei Preisschriften'
+url: http://www.gutenberg.org/ebooks/51349
